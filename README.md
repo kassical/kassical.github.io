@@ -1,1 +1,1 @@
-This is a blog by chutao.
+This is a blog created by chutao.
