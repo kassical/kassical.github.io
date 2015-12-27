@@ -1,10 +1,10 @@
 ---
 title: About me
 layout: page
-comments: yes
+comments: no
 ---
   
-* 姓名：周涛
+* 姓名: 周涛
 * 花名: 楚韬(tolex)
-* 职业：程序员
+* 职业: 程序员
    
