@@ -1,2 +1,7 @@
 markdown: rdiscount
 highlighter: pygments
+permalink: /:year/:month/:title/
+url: http://ctolex.com
+author: 楚韬
+pygments: true
+paginate: 24
